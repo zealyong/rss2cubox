@@ -2,7 +2,6 @@ on:
   rss:
     url:
       - https://feeds.feedburner.com/ruanyifeng
-      - https://plink.anyfeeder.com/weixin/caozsay
 jobs:
   request:
     name: Make a HTTP Request
